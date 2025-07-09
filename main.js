@@ -9242,6 +9242,7 @@ var app = (function() {
       "Trisha Yearwood - Bringing The Angels",
       "Trisha Yearwood - The Wall Or The Way Over",
       "Trisha Yearwood - Girls Night In",
+      "Trisha Yearwood - The Mirror",
     ]),
     On = {
       subscribe: ue(
@@ -13856,6 +13857,10 @@ var app = (function() {
           {
             url: "https://soundcloud.com/trishayearwood/forevers-as-far-as-ill-go",
             answer: "Trisha Yearwood - Forever's As Far As I'll Go",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/the-mirror",
+            answer: "Trisha Yearwood - The Mirror",
           },
           {
             url: "https://soundcloud.com/trishayearwood/here-comes-temptation-album",
