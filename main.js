@@ -13895,6 +13895,22 @@ var app = (function() {
             answer: "Trisha Yearwood - Wouldn't Any Woman",
           },
           {
+            url: "https://soundcloud.com/trishayearwood/bringing-the-angels",
+            answer: "Trisha Yearwood - Bringing The Angels",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/the-wall-or-the-way-over",
+            answer: "Trisha Yearwood - The Wall Or The Way Over",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/girls-night-in",
+            answer: "Trisha Yearwood - Girls Night In",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/the-mirror",
+            answer: "Trisha Yearwood - The Mirror",
+          },
+          {
             url: "https://soundcloud.com/trishayearwood/not-a-bad-thing",
             answer: "Trisha Yearwood - Not A Bad Thing",
           },
