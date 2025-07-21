@@ -9243,6 +9243,17 @@ var app = (function() {
       "Trisha Yearwood - The Wall Or The Way Over",
       "Trisha Yearwood - Girls Night In",
       "Trisha Yearwood - The Mirror",
+      "Trisha Yearwood - Little Lady",
+      "Trisha Yearwood - Fearless These Days",
+      "Trisha Yearwood - So Many Summers",
+      "Trisha Yearwood - The Record Plays On",
+      "Trisha Yearwood - Drunk Works",
+      "Trisha Yearwood - Fragile Like A Bomb",
+      "Trisha Yearwood - The Ocean And The River",
+      "Trisha Yearwood - The Shovel",
+      "Trisha Yearwood - When I'm With You",
+      "Trisha Yearwood - Goodnight Cruel World",
+      "Trisha Yearwood - When October Settles In",
     ]),
     On = {
       subscribe: ue(
@@ -13911,8 +13922,48 @@ var app = (function() {
             answer: "Trisha Yearwood - The Mirror",
           },
           {
-            url: "https://soundcloud.com/trishayearwood/not-a-bad-thing",
-            answer: "Trisha Yearwood - Not A Bad Thing",
+            url: "https://soundcloud.com/trishayearwood/little-lady",
+            answer: "Trisha Yearwood - Little Lady",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/fearless-these-days",
+            answer: "Trisha Yearwood - Fearless These Days",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/so-many-summers",
+            answer: "Trisha Yearwood - So Many Summers",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/the-record-plays-on",
+            answer: "Trisha Yearwood - The Record Plays On",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/drunk-works",
+            answer: "Trisha Yearwood - Drunk Works",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/fragile-like-a-bomb",
+            answer: "Trisha Yearwood - Fragile Like A Bomb",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/the-ocean-and-the-river",
+            answer: "Trisha Yearwood - The Ocean And The River",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/the-shovel",
+            answer: "Trisha Yearwood - The Shovel",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/when-im-with-you",
+            answer: "Trisha Yearwood - When I'm With You",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/goodnight-cruel-world",
+            answer: "Trisha Yearwood - Goodnight Cruel World",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/when-october-settles-in",
+            answer: "Trisha Yearwood - When October Settles In",
           },
           {
             url: "https://soundcloud.com/trishayearwood/heart-like-a-sad-song",
