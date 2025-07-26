@@ -13934,7 +13934,7 @@ var app = (function() {
             answer: "Trisha Yearwood - So Many Summers",
           },
           {
-            url: "https://soundcloud.com/trishayearwood/the-record-plays-on",
+            url: "https://soundcloud.com/trishayearwood/the-record-plays-on-feat",
             answer: "Trisha Yearwood - The Record Plays On",
           },
           {
