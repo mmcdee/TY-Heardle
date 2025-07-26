@@ -13938,7 +13938,7 @@ var app = (function() {
             answer: "Trisha Yearwood - The Record Plays On",
           },
           {
-            url: "https://soundcloud.com/trishayearwood/drunk-works",
+            url: "https://soundcloud.com/trishayearwood/drunk-works-duet-with-hailey",
             answer: "Trisha Yearwood - Drunk Works",
           },
           {
@@ -13950,7 +13950,7 @@ var app = (function() {
             answer: "Trisha Yearwood - The Ocean And The River",
           },
           {
-            url: "https://soundcloud.com/trishayearwood/the-shovel",
+            url: "https://soundcloud.com/trishayearwood/the-shovel-feat-jim-lauderdale",
             answer: "Trisha Yearwood - The Shovel",
           },
           {
@@ -13964,6 +13964,66 @@ var app = (function() {
           {
             url: "https://soundcloud.com/trishayearwood/when-october-settles-in",
             answer: "Trisha Yearwood - When October Settles In",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/girls-night-in",
+            answer: "Trisha Yearwood - Girls Night In",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/fragile-like-a-bomb",
+            answer: "Trisha Yearwood - Fragile Like A Bomb",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/the-ocean-and-the-river",
+            answer: "Trisha Yearwood - The Ocean And The River",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/when-im-with-you",
+            answer: "Trisha Yearwood - When I'm With You",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/so-many-summers",
+            answer: "Trisha Yearwood - So Many Summers",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/the-record-plays-on-feat",
+            answer: "Trisha Yearwood - The Record Plays On",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/goodnight-cruel-world",
+            answer: "Trisha Yearwood - Goodnight Cruel World",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/when-october-settles-in",
+            answer: "Trisha Yearwood - When October Settles In",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/bringing-the-angels",
+            answer: "Trisha Yearwood - Bringing The Angels",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/little-lady",
+            answer: "Trisha Yearwood - Little Lady",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/the-wall-or-the-way-over",
+            answer: "Trisha Yearwood - The Wall Or The Way Over",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/the-shovel-feat-jim-lauderdale",
+            answer: "Trisha Yearwood - The Shovel",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/drunk-works-duet-with-hailey",
+            answer: "Trisha Yearwood - Drunk Works",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/the-mirror",
+            answer: "Trisha Yearwood - The Mirror",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/fearless-these-days",
+            answer: "Trisha Yearwood - Fearless These Days",
           },
           {
             url: "https://soundcloud.com/trishayearwood/heart-like-a-sad-song",
