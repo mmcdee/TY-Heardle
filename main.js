@@ -14593,6 +14593,50 @@ var app = (function() {
             url: "https://soundcloud.com/trishayearwood/christmastime-is-here",
             answer: "Trisha Yearwood - Christmastime Is Here",
           },
+          {
+            url: "https://soundcloud.com/trishayearwood/blue-christmas",
+            answer: "Trisha Yearwood - Blue Christmas",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/cool-yule",
+            answer: "Trisha Yearwood - Cool Yule",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/my-favorite-things",
+            answer: "Trisha Yearwood - My Favorite Things",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/youre-a-mean-one-mr-grinch",
+            answer: "Trisha Yearwood - You're A Mean One, Mr. Grinch",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/years",
+            answer: "Trisha Yearwood - Years",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/santa-claus-is-coming-to-town",
+            answer: "Trisha Yearwood - Santa Claus Is Coming To Town",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/candy-cane-lane",
+            answer: "Trisha Yearwood - Candy Cane Lane",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/merry-christmas-valentine",
+            answer: "Trisha Yearwood - Merry Christmas, Valentine",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/pure-imagination",
+            answer: "Trisha Yearwood - Pure Imagination",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/its-just-another-new-years-eve",
+            answer: "Trisha Yearwood - It's Just Another New Year's Eve",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/simple-gifts",
+            answer: "Trisha Yearwood - Simple Gifts",
+          },
         ],
         Pn
       ).subscribe,
