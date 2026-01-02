@@ -14586,6 +14586,10 @@ var app = (function() {
             answer: "Trisha Yearwood - Girls Night In",
           },
           {
+            url: "https://soundcloud.com/trishayearwood/sweet-love-album-version",
+            answer: "Trisha Yearwood - Sweet Love",
+          },
+          {
             url: "https://soundcloud.com/trishayearwood/put-it-in-a-song",
             answer: "Trisha Yearwood - Put It In A Song",
           },
