@@ -9254,6 +9254,18 @@ var app = (function() {
       "Trisha Yearwood - When I'm With You",
       "Trisha Yearwood - Goodnight Cruel World",
       "Trisha Yearwood - When October Settles In",
+      "Trisha Yearwood - Christmastime Is Here",
+      "Trisha Yearwood - Blue Christmas",
+      "Trisha Yearwood - Cool Yule",
+      "Trisha Yearwood - My Favorite Things",
+      "Trisha Yearwood - You're A Mean One, Mr. Grinch",
+      "Trisha Yearwood - Years",
+      "Trisha Yearwood - Santa Claus Is Coming To Town",
+      "Trisha Yearwood - Merry Christmas, Valentine",
+      "Trisha Yearwood - Candy Cane Lane",
+      "Trisha Yearwood - Pure Imagination",
+      "Trisha Yearwood - It's Just Another New Year's Eve",
+      "Trisha Yearwood - Simple Gifts",
     ]),
     On = {
       subscribe: ue(
@@ -14576,6 +14588,10 @@ var app = (function() {
           {
             url: "https://soundcloud.com/trishayearwood/put-it-in-a-song",
             answer: "Trisha Yearwood - Put It In A Song",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/christmastime-is-here",
+            answer: "Trisha Yearwood - Christmastime Is Here",
           },
         ],
         Pn
