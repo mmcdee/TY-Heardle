@@ -14654,6 +14654,14 @@ var app = (function() {
             answer: "Trisha Yearwood - Fragile Like A Bomb",
           },
           {
+            url: "https://soundcloud.com/trishayearwood/girls-night-in",
+            answer: "Trisha Yearwood - Girls Night In",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/fragile-like-a-bomb",
+            answer: "Trisha Yearwood - Fragile Like A Bomb",
+          },
+          {
             url: "https://soundcloud.com/trishayearwood/the-ocean-and-the-river",
             answer: "Trisha Yearwood - The Ocean And The River",
           },
