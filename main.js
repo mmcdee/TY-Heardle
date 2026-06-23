@@ -9254,6 +9254,10 @@ var app = (function() {
       "Trisha Yearwood - When I'm With You",
       "Trisha Yearwood - Goodnight Cruel World",
       "Trisha Yearwood - When October Settles In",
+      "Trisha Yearwood - You're Gonna Love It Here",
+      "Trisha Yearwood - Undone",
+      "Trisha Yearwood - Different Kinda Hard",
+      "Trisha Yearwood - Country Music Herstory",
       "Trisha Yearwood - Christmastime Is Here",
       "Trisha Yearwood - Blue Christmas",
       "Trisha Yearwood - Cool Yule",
@@ -15252,6 +15256,650 @@ var app = (function() {
           {
             url: "https://soundcloud.com/trishayearwood/sweet-love-album-version",
             answer: "Trisha Yearwood - Sweet Love",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/youre-gonna-love-it-here",
+            answer: "Trisha Yearwood - You're Gonna Love It Here",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/undone",
+            answer: "Trisha Yearwood - Undone",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/different-kinda-hard",
+            answer: "Trisha Yearwood - Different Kinda Hard",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/country-music-herstory",
+            answer: "Trisha Yearwood - Country Music Herstory",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/girls-night-in",
+            answer: "Trisha Yearwood - Girls Night In",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/fragile-like-a-bomb",
+            answer: "Trisha Yearwood - Fragile Like A Bomb",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/the-ocean-and-the-river",
+            answer: "Trisha Yearwood - The Ocean And The River",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/when-im-with-you",
+            answer: "Trisha Yearwood - When I'm With You",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/so-many-summers",
+            answer: "Trisha Yearwood - So Many Summers",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/the-record-plays-on-feat",
+            answer: "Trisha Yearwood - The Record Plays On",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/goodnight-cruel-world",
+            answer: "Trisha Yearwood - Goodnight Cruel World",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/when-october-settles-in",
+            answer: "Trisha Yearwood - When October Settles In",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/bringing-the-angels",
+            answer: "Trisha Yearwood - Bringing The Angels",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/little-lady",
+            answer: "Trisha Yearwood - Little Lady",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/the-wall-or-the-way-over",
+            answer: "Trisha Yearwood - The Wall Or The Way Over",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/the-shovel-feat-jim-lauderdale",
+            answer: "Trisha Yearwood - The Shovel",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/drunk-works-duet-with-hailey",
+            answer: "Trisha Yearwood - Drunk Works",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/the-mirror",
+            answer: "Trisha Yearwood - The Mirror",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/fearless-these-days",
+            answer: "Trisha Yearwood - Fearless These Days",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/heart-like-a-sad-song",
+            answer: "Trisha Yearwood - Heart Like A Sad Song",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/if-i-aint-got-you-album",
+            answer: "Trisha Yearwood - If I Ain't Got You",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/i-dont-fall-in-love-so-easy",
+            answer: "Trisha Yearwood - I Don't Fall In Love So Easy",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/never-let-you-go-again",
+            answer: "Trisha Yearwood - Never Let You Go Again",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/follow-the-wind",
+            answer: "Trisha Yearwood - Follow The Wind",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/till-i-get-it-right-album",
+            answer: "Trisha Yearwood - Till I Get It Right",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/for-a-while",
+            answer: "Trisha Yearwood - For A While",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/all-the-way",
+            answer: "Trisha Yearwood - All The Way",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/ill-still-love-you-more-album",
+            answer: "Trisha Yearwood - I'll Still Love You More",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/we-tried",
+            answer: "Trisha Yearwood - We Tried",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/hearts-in-armor-album-version",
+            answer: "Trisha Yearwood - Hearts In Armor",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/you-cant-trust-the-weatherman",
+            answer: "Trisha Yearwood - You Can't Trust The Weatherman",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/one-love-album-version",
+            answer: "Trisha Yearwood - One Love",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/ill-be-seeing-you",
+            answer: "Trisha Yearwood - I'll Be Seeing You",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/a-perfect-love-single-version",
+            answer: "Trisha Yearwood - Perfect Love",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/i-need-you-album-version",
+            answer: "Trisha Yearwood - I Need You",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/for-the-last-time",
+            answer: "Trisha Yearwood - For The Last Time",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/love-wouldnt-lie-to-me",
+            answer: "Trisha Yearwood - Love Wouldn't Lie To Me",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/nearest-distant-shore-album",
+            answer: "Trisha Yearwood - Nearest Distant Shore",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/sad-eyes",
+            answer: "Trisha Yearwood - Sad Eyes",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/let-the-wind-chase-you-feat",
+            answer: "Trisha Yearwood - Let The Wind Chase You (feat. Keith Urban)",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/ill-carry-you-home",
+            answer: "Trisha Yearwood - I'll Carry You Home",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/xxxs-and-ooos-an-american-girl",
+            answer: "Trisha Yearwood - XXX's And OOO's (An American Girl)",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/try-me-again",
+            answer: "Trisha Yearwood - Try Me Again",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/something-kinda-like-it",
+            answer: "Trisha Yearwood - Something Kinda Like It",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/witchcraft",
+            answer: "Trisha Yearwood - Witchcraft",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/i-wanna-go-too-far-album",
+            answer: "Trisha Yearwood - I Wanna Go Too Far",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/when-we-were-still-in-love",
+            answer: "Trisha Yearwood - When We Were Still In Love",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/some-days",
+            answer: "Trisha Yearwood - Some Days",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/o-mexico-album-version",
+            answer: "Trisha Yearwood - O Mexico",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/oh-lonesome-you-album-version",
+            answer: "Trisha Yearwood - Oh Lonesome You",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/bring-me-all-your-lovin",
+            answer: "Trisha Yearwood - Bring Me All Your Lovin'",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/met-him-in-a-motel-room",
+            answer: "Trisha Yearwood - Met Him In A Motel Room",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/you-done-me-wrong-and-that",
+            answer: "Trisha Yearwood - You Done Me Wrong (And That Ain't Right)",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/i-wouldve-loved-you-anyway",
+            answer: "Trisha Yearwood - I Would've Loved You Anyway",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/love-me-or-leave-me-alone",
+            answer: "Trisha Yearwood - Love Me Or Leave Me Alone",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/harmless-heart",
+            answer: "Trisha Yearwood - Harmless Heart",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/lonesome-dove",
+            answer: "Trisha Yearwood - Lonesome Dove",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/the-nightingale-album-version",
+            answer: "Trisha Yearwood - The Nightingale",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/thats-what-i-like-about-you",
+            answer: "Trisha Yearwood - That's What I Like About You",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/my-love-is-your-love-from-the",
+            answer: "Trisha Yearwood - My Love Is Your Love",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/coming-back-to-you",
+            answer: "Trisha Yearwood - Coming Back To You",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/georgia-rain-acoustic",
+            answer: "Trisha Yearwood - Georgia Rain (Acoustic)",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/under-the-rainbow-album",
+            answer: "Trisha Yearwood - Under The Rainbow",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/home",
+            answer: "Trisha Yearwood - Home",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/bible-and-a-44-feat-patty",
+            answer: "Trisha Yearwood - Bible and a .44 (feat. Patty Loveless)",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/hard-promises-to-keep-album",
+            answer: "Trisha Yearwood - Hard Promises To Keep",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/believe-me-baby-i-lied-album",
+            answer: "Trisha Yearwood - Believe Me Baby (I Lied)",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/hands-from-the-passion-new",
+            answer: "Trisha Yearwood - Hands",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/find-a-way",
+            answer: "Trisha Yearwood - Find A Way",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/drinking-again",
+            answer: "Trisha Yearwood - Drinking Again",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/like-we-never-had-a-broken",
+            answer: "Trisha Yearwood - Like We Never Had A Broken Heart",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/i-remember-you",
+            answer: "Trisha Yearwood - I Remember You",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/in-anothers-eyes-with-garth",
+            answer: "Trisha Yearwood - In Another's Eyes (with Garth Brooks)",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/the-lady-is-a-tramp",
+            answer: "Trisha Yearwood - The Lady Is a Tramp",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/you-say-you-will-album-version",
+            answer: "Trisha Yearwood - You Say You Will",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/gimme-the-good-stuff-album",
+            answer: "Trisha Yearwood - Gimme The Good Stuff",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/nothin-about-you-is-good-for",
+            answer: "Trisha Yearwood - Nothin' About You is Good For Me",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/wrong-side-of-memphis-album",
+            answer: "Trisha Yearwood - Wrong Side Of Memphis",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/fairytale-album-version",
+            answer: "Trisha Yearwood - Fairytale",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/everybody-knows-album-version",
+            answer: "Trisha Yearwood - Everybody Knows",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/dreaming-fields",
+            answer: "Trisha Yearwood - Dreaming Fields",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/hello-im-gone-album-version",
+            answer: "Trisha Yearwood - Hello, I'm Gone",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/if-i-loved-you",
+            answer: "Trisha Yearwood - If I Loved You",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/the-flame",
+            answer: "Trisha Yearwood - The Flame",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/they-all-laughed",
+            answer: "Trisha Yearwood - They All Laughed",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/how-do-i-live-songbook-version",
+            answer: "Trisha Yearwood - How Do I Live",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/the-woman-before-me-album",
+            answer: "Trisha Yearwood - The Woman Before Me",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/youll-never-walk-alone-from",
+            answer: "Trisha Yearwood - You'll Never Walk Alone",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/one-in-a-row-album-version",
+            answer: "Trisha Yearwood - One In A Row",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/when-lonely-calls",
+            answer: "Trisha Yearwood - When Lonely Calls",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/cant-take-back-goodbye",
+            answer: "Trisha Yearwood - Can't Take Back Goodbye",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/im-still-alive-youre-gone",
+            answer: "Trisha Yearwood - I'm Still Alive (You're Gone)",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/where-are-you-now",
+            answer: "Trisha Yearwood - Where Are You Now",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/fools-like-me",
+            answer: "Trisha Yearwood - Fools Like Me",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/blue-beyond-album-version",
+            answer: "Trisha Yearwood - Blue Beyond",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/help-me",
+            answer: "Trisha Yearwood - Help Me",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/love-alone-album-version",
+            answer: "Trisha Yearwood - Love Alone",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/the-restless-kind-album",
+            answer: "Trisha Yearwood - The Restless Kind",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/the-whisper-of-your-heart",
+            answer: "Trisha Yearwood - The Whisper Of Your Heart",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/trying-to-love-you-album",
+            answer: "Trisha Yearwood - Trying To Love You",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/a-lover-is-forever",
+            answer: "Trisha Yearwood - A Lover Is Forever",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/put-it-in-a-song",
+            answer: "Trisha Yearwood - Put It In A Song",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/love-you-anyway-feat-don",
+            answer: "Trisha Yearwood - Love You Anyway (feat. Don Henley)",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/for-reasons-ive-forgotten",
+            answer: "Trisha Yearwood - For Reasons I've Forgotten",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/second-chance",
+            answer: "Trisha Yearwood - Second Chance",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/youre-where-i-belong-remix",
+            answer: "Trisha Yearwood - You're Where I Belong (Remix)",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/its-alright-album-version-1",
+            answer: "Trisha Yearwood - It's Alright (Everybody Knows Album Version)",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/standing-out-in-a-crowd-album",
+            answer: "Trisha Yearwood - Standing Out In A Crowd",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/walkaway-joe-album-version",
+            answer: "Trisha Yearwood - Walkaway Joe",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/the-song-remembers-when-album",
+            answer: "Trisha Yearwood - The Song Remembers When",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/workin-on-whiskey",
+            answer: "Trisha Yearwood - Workin' On Whiskey",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/real-live-woman-album-version",
+            answer: "Trisha Yearwood - Real Live Woman",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/on-a-bus-to-st-cloud",
+            answer: "Trisha Yearwood - On A Bus To St. Cloud",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/drown-me",
+            answer: "Trisha Yearwood - Drown Me",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/little-hercules-album-version",
+            answer: "Trisha Yearwood - Little Hercules",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/drink-up",
+            answer: "Trisha Yearwood - Drink Up",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/the-man-that-got-away",
+            answer: "Trisha Yearwood - The Man That Got Away",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/you-dont-have-to-move-that",
+            answer: "Trisha Yearwood - You Don't Have To Move That Mountain",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/i-want-to-live-again-album",
+            answer: "Trisha Yearwood - I Want To Live Again",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/woman-walk-the-line-album",
+            answer: "Trisha Yearwood - Woman Walk The Line",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/nothin-to-lose",
+            answer: "Trisha Yearwood - Nothin' To Lose",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/lying-to-the-moon-album",
+            answer: "Trisha Yearwood - Lying To The Moon",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/this-is-me-youre-talking-to",
+            answer: "Trisha Yearwood - This Is Me You're Talking To",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/its-alright-album-version",
+            answer: "Trisha Yearwood - It's Alright (Jasper County Album Version)",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/one-for-my-baby-and-one-more",
+            answer: "Trisha Yearwood - One For My Baby (and One More For The Road)",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/thinkin-about-you-album",
+            answer: "Trisha Yearwood - Thinkin' About You",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/seven-year-ache",
+            answer: "Trisha Yearwood - Seven Year Ache (feat. Rosanne Cash)",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/over-the-rainbow",
+            answer: "Trisha Yearwood - Over The Rainbow",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/youre-where-i-belong",
+            answer: "Trisha Yearwood - You're Where I Belong",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/powerful-thing-album-version",
+            answer: "Trisha Yearwood - Powerful Thing",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/too-bad-youre-no-good",
+            answer: "Trisha Yearwood - Too Bad You're No Good",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/melancholy-blue",
+            answer: "Trisha Yearwood - Melancholy Blue",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/inside-out",
+            answer: "Trisha Yearwood - Inside Out (feat. Don Henley)",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/love-let-go",
+            answer: "Trisha Yearwood - Love Let Go",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/your-husbands-cheatin-on-us",
+            answer: "Trisha Yearwood - Your Husband's Cheatin' On Us",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/come-back-when-it-aint-rainin",
+            answer: "Trisha Yearwood - Come Back When It Ain't Rainin'",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/what-gave-me-away-feat-garth",
+            answer: "Trisha Yearwood - What Gave Me Away (feat. Garth Brooks)",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/prizefighter-feat-kelly",
+            answer: "Trisha Yearwood - Prizefighter (feat. Kelly Clarkson)",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/pistol-album-version",
+            answer: "Trisha Yearwood - Pistol",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/that-aint-the-way-i-heard-it",
+            answer: "Trisha Yearwood - That Ain't The Way I Heard It",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/maybe-its-love-album-version",
+            answer: "Trisha Yearwood - Maybe It's Love",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/an-angel-gets-its-wings",
+            answer: "Trisha Yearwood - An Angel Gets Its Wings",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/mr-radio-album-version",
+            answer: "Trisha Yearwood - Mr. Radio",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/bringing-the-angels",
+            answer: "Trisha Yearwood - Bringing The Angels",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/the-wall-or-the-way-over",
+            answer: "Trisha Yearwood - The Wall Or The Way Over",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/girls-night-in",
+            answer: "Trisha Yearwood - Girls Night In",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/come-fly-with-me",
+            answer: "Trisha Yearwood - Come Fly With Me",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/victim-of-the-game-album",
+            answer: "Trisha Yearwood - Victim Of The Game",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/end-of-the-world",
+            answer: "Trisha Yearwood - End Of The World",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/i-wont-give-up-from-the",
+            answer: "Trisha Yearwood - I Won't Give Up",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/georgia-rain-album-version",
+            answer: "Trisha Yearwood - Georgia Rain",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/you-can-sleep-while-i-drive",
+            answer: "Trisha Yearwood - You Can Sleep While I Drive",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/sweet-love-album-version",
+            answer: "Trisha Yearwood - Sweet Love",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/bringing-the-angels",
+            answer: "Trisha Yearwood - Bringing The Angels",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/the-wall-or-the-way-over",
+            answer: "Trisha Yearwood - The Wall Or The Way Over",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/girls-night-in",
+            answer: "Trisha Yearwood - Girls Night In",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/sweet-love-album-version",
+            answer: "Trisha Yearwood - Sweet Love",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/youre-gonna-love-it-here",
+            answer: "Trisha Yearwood - You're Gonna Love It Here",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/undone",
+            answer: "Trisha Yearwood - Undone",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/different-kinda-hard",
+            answer: "Trisha Yearwood - Different Kinda Hard",
+          },
+          {
+            url: "https://soundcloud.com/trishayearwood/country-music-herstory",
+            answer: "Trisha Yearwood - Country Music Herstory",
           },
         ],
         Pn
